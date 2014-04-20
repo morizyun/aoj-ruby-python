@@ -1,16 +1,3 @@
-# # 組み込み関数gcd, lcmを拡張する場合
-# class Array
-#   # 最大公約数: ２つ以上の正の整数に共通な約数（公約数）のうち最大のもの
-#   def gcd
-#     self.inject{|a,b| a.gcd(b)}
-#   end
-#
-#   # 最小公倍数: ２つ以上の正の整数の共通な倍数（公倍数）のうち最小のもの
-#   def lcm
-#     self.inject{|a,b| a.lcm(b)}
-#   end
-# end
-
 class Array
   # 最大公約数: ２つ以上の正の整数に共通な約数（公約数）のうち最大のもの
   def lcm
@@ -36,3 +23,7 @@ while str = gets
   a = str.split(' ').map(&:to_i)
   puts "#{a.gcd} #{a.lcm}"
 end
+
+# output
+# 2 24
+# 10000000 150000000
