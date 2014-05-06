@@ -5,7 +5,8 @@
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -120,4 +121,6 @@ docs/_build/
 # proportion of contributors will probably not be using SublimeText
 # *.sublime-project
 
+
+*.imi
 
