@@ -30,4 +30,3 @@ while gets
   s = $_.chomp.gsub(' ', '')
   puts answers[s]
 end
-
