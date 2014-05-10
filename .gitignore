@@ -123,3 +123,6 @@ docs/_build/
 
 *.imi
 
+*.out
+
+./*.out.dSYM/*
