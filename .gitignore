@@ -126,3 +126,4 @@ docs/_build/
 *.out
 
 ./*.out.dSYM/*
+*.plist
