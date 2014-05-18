@@ -3,7 +3,7 @@
 
 require 'matrix'
 
-# o(1.68^n)
+# o(1.68^n) => 1.68^n乗回計算しないといけない
 def fib_recursive(n)
   case n
     when 0, 1
@@ -23,7 +23,7 @@ end
 # fib_recursive(30) 0.13573 secs
 # fib_recursive(35) 1.484679 secs
 
-# o(n)
+# o(n) => n回計算しないといけない
 def fib_liner(n)
   a, b = 0, 1
   n.times do
