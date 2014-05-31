@@ -1,13 +1,25 @@
-import sys
+import math
 
-def c(x1, y1, x2, y2, x, y):
-  return (y2 - y1)*(x - x1) - (x2 - x1)*(y - y1)
+def L(x1, y1, x2, y2):
+  return math.sqrt((x1 - x2)**2+(y1 - y2)**2)
 
-for str in sys.stdin:
-  x1,y1,x2,y2,x3,y3,xp,yp = map(float, str.split(' '))
-  gx, gy = (x1 + x2 + x3)/3, (y1 + y2 + y3)/3
+def S(a, b, c):
+  s=(a + b + c)/2
+  return math.sqrt(s*(s - a)*(s - b)*(s - c))
 
-  r1 = c(x1, y1, x2, y2, gx, gy)*c(x1, y1, x2, y2, xp, yp) > 0
-  r2 = c(x2, y2, x3, y3, gx, gy)*c(x2, y2, x3, y3, xp, yp) > 0
-  r3 = c(x3, y3, x1, y1, gx, gy)*c(x3, y3, x1, y1, xp, yp) > 0
-  print 'YES' if r1 and r2 and r3 else 'NO'
+while True:
+  try:
+    x1, y1, x2, y2, x3, y3, xp, yp = map(float, raw_input().split())
+    a = L(x1, y1, x2, y2)
+    b = L(x1, y1, x3, y3)
+    c = L(x2, y2, x3, y3)
+    p1 = L(x1, y1, xp, yp)
+    p2 = L(x2, y2, xp, yp)
+    p3 = L(x3, y3, xp, yp)
+
+    if S(a, p2, p1)+S(b, p1, p3)+S(c, p3, p2)-S(a, b, c) > 0.0000001:
+      print "NO"
+    else:
+      print "YES"
+  except:
+    break

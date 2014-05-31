@@ -1,14 +1,20 @@
-def c(x1, y1, x2, y2, x, y)
-  (y2 - y1)*(x - x1) - (x2 - x1)*(y - y1)
+require 'pry'
+
+def area(x1, y1, x2, y2, x3, y3)
+  a = Math.sqrt((x1 - x2)**2 + (y1 - y2)**2)
+  b = Math.sqrt((x2 - x3)**2 + (y2 - y3)**2)
+  c = Math.sqrt((x3 - x1)**2 + (y3 - y1)**2)
+  s = (a + b + c)/2.0
+  Math.sqrt(s*(s - a)*(s - b)*(s - c))
 end
 
-# http://d.hatena.ne.jp/ymuto/20111226/1324890775
-while s = gets
-  x1, y1, x2, y2, x3, y3, xp, yp = s.split(/\s/).map(&:to_f)
-  gx, gy = (x1 + x2 + x3)/3, (y1 + y2 + y3)/3
+binding.pry
 
-  r1 = c(x1, y1, x2, y2, gx, gy)*c(x1, y1, x2, y2, xp, yp) > 0
-  r2 = c(x2, y2, x3, y3, gx, gy)*c(x2, y2, x3, y3, xp, yp) > 0
-  r3 = c(x3, y3, x1, y1, gx, gy)*c(x3, y3, x1, y1, xp, yp) > 0
-  puts (r1 && r2 && r3) ? 'YES' : 'NO'
+while gets do
+  x1, y1, x2, y2, x3, y3, xp, yp = $_.chomp.split(' ').map(&:to_f)
+  s_all = area(x1, y1, x2, y2, x3, y3)
+  s_1 = area(x1, y1, x2, y2, xp, yp)
+  s_2 = area(x2, y2, x3, y3, xp, yp)
+  s_3 = area(x1, y1, x3, y3, xp, yp)
+  puts (s_all - s_1 - s_2 - s_3).abs <= 0.00001 ? 'YES' : 'NO'
 end
