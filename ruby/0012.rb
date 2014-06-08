@@ -1,5 +1,4 @@
-require 'pry'
-
+# 未検証・間違ってるかも
 def area(x1, y1, x2, y2, x3, y3)
   a = Math.sqrt((x1 - x2)**2 + (y1 - y2)**2)
   b = Math.sqrt((x2 - x3)**2 + (y2 - y3)**2)
@@ -7,8 +6,6 @@ def area(x1, y1, x2, y2, x3, y3)
   s = (a + b + c)/2.0
   Math.sqrt(s*(s - a)*(s - b)*(s - c))
 end
-
-binding.pry
 
 while gets do
   x1, y1, x2, y2, x3, y3, xp, yp = $_.chomp.split(' ').map(&:to_f)

@@ -127,3 +127,4 @@ docs/_build/
 
 ./*.out.dSYM/*
 *.plist
+/algorithm/*

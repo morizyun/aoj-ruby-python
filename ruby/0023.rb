@@ -1,19 +1,19 @@
 def length(xa, ya, xb, yb)
-  Math.sqrt((xa - xb)*(xa - xb) + (ya - yb)*(ya - yb))
+  Math.sqrt((xa - xb)**2 + (ya - yb)**2)
 end
 
 n = gets.to_i
-n.times do
-  xa, ya, ra, xb, yb, rb = gets.split(' ').map(&:to_f)
-  len = length(xa, ya, xb, yb)
-
-  if ra > rb + len
-    puts 2
-  elsif rb > ra + len
-    puts -2
-  elsif ra + rb < len
-    puts 0
+while gets
+  xa, ya, ra, xb, yb, rb = $_.split(' ').map(&:to_f)
+  l = length(xa, ya, xb, yb)
+  if ra > l + rb
+    out = 2
+  elsif rb > l + ra
+    out = -2
+  elsif ra + rb < l
+    out = 0
   else
-    puts 1
+    out = 1
   end
+  puts out
 end

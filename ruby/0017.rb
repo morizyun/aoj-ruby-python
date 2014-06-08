@@ -1,6 +1,7 @@
-while s = gets
-  until s =~ /that|the|this/
-    s.tr!('a-z', 'b-za')
+while gets
+  str = $_
+  until str =~ /the|this|that/
+    str.tr!('a-z', 'b-za')
   end
-  puts s
+  puts str
 end
