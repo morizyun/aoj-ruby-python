@@ -1,26 +1,26 @@
-def judge(a,b,c)
-  if a == b && b == c && a != 's'
-    return a
-  else
-    return nil
-  end
+def judge(a, b, c)
+  (a == b) && (b == c) && a != 's'
 end
 
-while gets
-  s = $_.chomp.chars
+while gets do
+  a = $_.chomp.chars
+
   res = nil
-  0.upto(3) do |i|
-    res = judge(s[i], s[i+3], s[i+6])
-    break if res
-    res = judge(s[3*i], s[3*i+1], s[3*i+2])
-    break if res
+  3.times do |i|
+    if judge(a[3*i], a[3*i+1], a[3*i+2])
+      res = a[3*i]
+      break
+    elsif judge(a[i], a[i+3], a[i+6])
+      res = a[i]
+      break
+    end
   end
-  if s[4] != 's' and (judge(s[0], s[4], s[8]) or judge(s[2], s[4], s[6]))
-    puts s[4]
-  elsif res.nil?
-    puts 'd'
-  else
+
+  if res
     puts res
+  elsif judge(a[0], a[4], a[8]) or judge(a[2], a[4], a[6])
+    puts a[4]
+  else
+    puts 'd'
   end
 end
-
