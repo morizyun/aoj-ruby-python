@@ -128,3 +128,6 @@ docs/_build/
 ./*.out.dSYM/*
 *.plist
 /algorithm/*
+
+# For Java
+*.class
