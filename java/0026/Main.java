@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.lang.Integer;
 import java.lang.System;
-        import java.util.Scanner;
+import java.util.Scanner;
 
 public class Main{
     // インキ滴 小
