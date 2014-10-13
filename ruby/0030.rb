@@ -1,28 +1,19 @@
-def get_prime_count(n)
-  sqrt_num = Math.sqrt(n)
-  is_prime = [false, false] + [true]*(n - 1)
-
-  2.upto(sqrt_num) do |i|
-    next unless is_prime[i]
-    (i*i).step(n, i) do |j|
-      is_prime[j] = false
-    end
+def count(n, s, i, arr)
+  if arr.size == n
+    return s == arr.inject(:+) ? 1 : 0
   end
 
-  result = []
-  count = 0
-  0.upto(n) do |i|
-    count += 1 if is_prime[i]
-    result[i] = count
+  ans = 0
+  i.upto(9) do |j|
+    arr.push(j)
+    ans += count(n, s, j+1, arr)
+    arr.pop
   end
-
-  return result
+  return ans
 end
 
-n = 1000000
-prime_count = get_prime_count(n)
-
-while gets do
-  n = $_.to_i
-  puts prime_count[n]
+while gets
+  n,s = $_.split(' ').map(&:to_i)
+  break if n == 0 && s == 0
+  puts count(n, s, 0, [])
 end
