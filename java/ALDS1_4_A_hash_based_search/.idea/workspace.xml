@@ -1,0 +1,1434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a37fb0ca-6d35-4df2-8065-fec02f46535f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../input/0024.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../input/0032.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../input/0034.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../input/ALDS1_10_A.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../input/ALDS1_1_A.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../input/ALDS1_2_B.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../input/ALDS1_4_A.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../10029_bucket_sort/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../10029_heap_sort/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../10029_quick_sort/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ALDS1_4_A_binary_search/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../javascript/0000.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ruby/0028.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ruby/0032.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ruby/0034.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ruby/0121_breadth_first_search.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ruby/ALDS1_10_A_fibonacci_number.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ruby/ALDS1_2_B_selection_sort.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ruby/ALDS1_4_A_liner_search.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../ruby/ALDS1_8_B_binary_search.rb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0000/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0001/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0002/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0003/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0004/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0005/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0006/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0007/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0008/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0009/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0010/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0011/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0013/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0014/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0015/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0016/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0017/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0018/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0019/0019.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0019/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0020/0020.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0020/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0022/0022.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0022/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0025/0025.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0025/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0026/0026.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0026/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0027/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0028/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0030/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0031/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0036/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0038/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0040/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../0139/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ruby/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ruby/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ruby/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ruby/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ruby/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ruby/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ruby/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../ruby/0121_2.rb" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../../ruby/0121_1.rb" afterPath="$PROJECT_DIR$/../../ruby/0121_best_answer.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.gitignore" afterPath="$PROJECT_DIR$/../../.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../c++/0012.c" afterPath="$PROJECT_DIR$/../../c++/0012.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../c++/0033.c" afterPath="$PROJECT_DIR$/../../c++/0033.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../c++/0060.c" afterPath="$PROJECT_DIR$/../../c++/0060.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../c++/0064.c" afterPath="$PROJECT_DIR$/../../c++/0064.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../c++/0066.c" afterPath="$PROJECT_DIR$/../../c++/0066.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../c++/0067.c" afterPath="$PROJECT_DIR$/../../c++/0067.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0001.txt" afterPath="$PROJECT_DIR$/../../input/0001.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0002.txt" afterPath="$PROJECT_DIR$/../../input/0002.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0003.txt" afterPath="$PROJECT_DIR$/../../input/0003.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0004.txt" afterPath="$PROJECT_DIR$/../../input/0004.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0005.txt" afterPath="$PROJECT_DIR$/../../input/0005.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0006.txt" afterPath="$PROJECT_DIR$/../../input/0006.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0007.txt" afterPath="$PROJECT_DIR$/../../input/0007.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0008.txt" afterPath="$PROJECT_DIR$/../../input/0008.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0009.txt" afterPath="$PROJECT_DIR$/../../input/0009.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0010.txt" afterPath="$PROJECT_DIR$/../../input/0010.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0011.txt" afterPath="$PROJECT_DIR$/../../input/0011.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0012.txt" afterPath="$PROJECT_DIR$/../../input/0012.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0013.txt" afterPath="$PROJECT_DIR$/../../input/0013.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0014.txt" afterPath="$PROJECT_DIR$/../../input/0014.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0015.txt" afterPath="$PROJECT_DIR$/../../input/0015.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0016.txt" afterPath="$PROJECT_DIR$/../../input/0016.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0017.txt" afterPath="$PROJECT_DIR$/../../input/0017.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0018.txt" afterPath="$PROJECT_DIR$/../../input/0018.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0019.txt" afterPath="$PROJECT_DIR$/../../input/0019.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0020.txt" afterPath="$PROJECT_DIR$/../../input/0020.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0021.txt" afterPath="$PROJECT_DIR$/../../input/0021.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0022.txt" afterPath="$PROJECT_DIR$/../../input/0022.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0023.txt" afterPath="$PROJECT_DIR$/../../input/0023.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0025.txt" afterPath="$PROJECT_DIR$/../../input/0025.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0027.txt" afterPath="$PROJECT_DIR$/../../input/0027.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0028.txt" afterPath="$PROJECT_DIR$/../../input/0028.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0030.txt" afterPath="$PROJECT_DIR$/../../input/0030.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0031.txt" afterPath="$PROJECT_DIR$/../../input/0031.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0033.txt" afterPath="$PROJECT_DIR$/../../input/0033.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0036.txt" afterPath="$PROJECT_DIR$/../../input/0036.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0038.txt" afterPath="$PROJECT_DIR$/../../input/0038.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0039.txt" afterPath="$PROJECT_DIR$/../../input/0039.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0040.txt" afterPath="$PROJECT_DIR$/../../input/0040.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0060.txt" afterPath="$PROJECT_DIR$/../../input/0060.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0064.txt" afterPath="$PROJECT_DIR$/../../input/0064.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0066.txt" afterPath="$PROJECT_DIR$/../../input/0066.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0067.txt" afterPath="$PROJECT_DIR$/../../input/0067.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0093.txt" afterPath="$PROJECT_DIR$/../../input/0093.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0121.txt" afterPath="$PROJECT_DIR$/../../input/0121.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0167.txt" afterPath="$PROJECT_DIR$/../../input/0167.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0168.txt" afterPath="$PROJECT_DIR$/../../input/0168.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0528.txt" afterPath="$PROJECT_DIR$/../../input/0528.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/0557.txt" afterPath="$PROJECT_DIR$/../../input/0557.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/10029.txt" afterPath="$PROJECT_DIR$/../../input/10029.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/1137.txt" afterPath="$PROJECT_DIR$/../../input/1137.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../input/1173.txt" afterPath="$PROJECT_DIR$/../../input/1173.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0000.py" afterPath="$PROJECT_DIR$/../../python/0000.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0001.py" afterPath="$PROJECT_DIR$/../../python/0001.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0002.py" afterPath="$PROJECT_DIR$/../../python/0002.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0003.py" afterPath="$PROJECT_DIR$/../../python/0003.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0004.py" afterPath="$PROJECT_DIR$/../../python/0004.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0005.py" afterPath="$PROJECT_DIR$/../../python/0005.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0006.py" afterPath="$PROJECT_DIR$/../../python/0006.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0007.py" afterPath="$PROJECT_DIR$/../../python/0007.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0008.py" afterPath="$PROJECT_DIR$/../../python/0008.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0009.py" afterPath="$PROJECT_DIR$/../../python/0009.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0010.py" afterPath="$PROJECT_DIR$/../../python/0010.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0011.py" afterPath="$PROJECT_DIR$/../../python/0011.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0012.py" afterPath="$PROJECT_DIR$/../../python/0012.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0013.py" afterPath="$PROJECT_DIR$/../../python/0013.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0014.py" afterPath="$PROJECT_DIR$/../../python/0014.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0015.py" afterPath="$PROJECT_DIR$/../../python/0015.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0016.py" afterPath="$PROJECT_DIR$/../../python/0016.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0017.py" afterPath="$PROJECT_DIR$/../../python/0017.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0018.py" afterPath="$PROJECT_DIR$/../../python/0018.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0019.py" afterPath="$PROJECT_DIR$/../../python/0019.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0020.py" afterPath="$PROJECT_DIR$/../../python/0020.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0021.py" afterPath="$PROJECT_DIR$/../../python/0021.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0022.py" afterPath="$PROJECT_DIR$/../../python/0022.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0023.py" afterPath="$PROJECT_DIR$/../../python/0023.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0025.py" afterPath="$PROJECT_DIR$/../../python/0025.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0027.py" afterPath="$PROJECT_DIR$/../../python/0027.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0030.py" afterPath="$PROJECT_DIR$/../../python/0030.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0031.py" afterPath="$PROJECT_DIR$/../../python/0031.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0033.py" afterPath="$PROJECT_DIR$/../../python/0033.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0038.py" afterPath="$PROJECT_DIR$/../../python/0038.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0039.py" afterPath="$PROJECT_DIR$/../../python/0039.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0060.py" afterPath="$PROJECT_DIR$/../../python/0060.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0064.py" afterPath="$PROJECT_DIR$/../../python/0064.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0066.py" afterPath="$PROJECT_DIR$/../../python/0066.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0067.py" afterPath="$PROJECT_DIR$/../../python/0067.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0121.py" afterPath="$PROJECT_DIR$/../../python/0121.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0168.py" afterPath="$PROJECT_DIR$/../../python/0168.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0528.py" afterPath="$PROJECT_DIR$/../../python/0528.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/0557.py" afterPath="$PROJECT_DIR$/../../python/0557.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/1137.py" afterPath="$PROJECT_DIR$/../../python/1137.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../python/1173.py" afterPath="$PROJECT_DIR$/../../python/1173.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0000.rb" afterPath="$PROJECT_DIR$/../../ruby/0000.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0001.rb" afterPath="$PROJECT_DIR$/../../ruby/0001.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0002.rb" afterPath="$PROJECT_DIR$/../../ruby/0002.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0003.rb" afterPath="$PROJECT_DIR$/../../ruby/0003.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0004.rb" afterPath="$PROJECT_DIR$/../../ruby/0004.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0005.rb" afterPath="$PROJECT_DIR$/../../ruby/0005.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0006.rb" afterPath="$PROJECT_DIR$/../../ruby/0006.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0007.rb" afterPath="$PROJECT_DIR$/../../ruby/0007.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0008.rb" afterPath="$PROJECT_DIR$/../../ruby/0008.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0009.rb" afterPath="$PROJECT_DIR$/../../ruby/0009.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0010.rb" afterPath="$PROJECT_DIR$/../../ruby/0010.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0011.rb" afterPath="$PROJECT_DIR$/../../ruby/0011.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0012.rb" afterPath="$PROJECT_DIR$/../../ruby/0012.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0013.rb" afterPath="$PROJECT_DIR$/../../ruby/0013.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0014.rb" afterPath="$PROJECT_DIR$/../../ruby/0014.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0015.rb" afterPath="$PROJECT_DIR$/../../ruby/0015.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0016.rb" afterPath="$PROJECT_DIR$/../../ruby/0016.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0017.rb" afterPath="$PROJECT_DIR$/../../ruby/0017.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0018.rb" afterPath="$PROJECT_DIR$/../../ruby/0018.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0019.rb" afterPath="$PROJECT_DIR$/../../ruby/0019.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0020.rb" afterPath="$PROJECT_DIR$/../../ruby/0020.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0021.rb" afterPath="$PROJECT_DIR$/../../ruby/0021.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0022.rb" afterPath="$PROJECT_DIR$/../../ruby/0022.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0023.rb" afterPath="$PROJECT_DIR$/../../ruby/0023.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0025.rb" afterPath="$PROJECT_DIR$/../../ruby/0025.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0030.rb" afterPath="$PROJECT_DIR$/../../ruby/0030.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0031.rb" afterPath="$PROJECT_DIR$/../../ruby/0031.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0033.rb" afterPath="$PROJECT_DIR$/../../ruby/0033.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0038.rb" afterPath="$PROJECT_DIR$/../../ruby/0038.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0039.rb" afterPath="$PROJECT_DIR$/../../ruby/0039.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0040.rb" afterPath="$PROJECT_DIR$/../../ruby/0040.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0042.rb" afterPath="$PROJECT_DIR$/../../ruby/0042.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0060.rb" afterPath="$PROJECT_DIR$/../../ruby/0060.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0064.rb" afterPath="$PROJECT_DIR$/../../ruby/0064.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0066.rb" afterPath="$PROJECT_DIR$/../../ruby/0066.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0067.rb" afterPath="$PROJECT_DIR$/../../ruby/0067.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0093.rb" afterPath="$PROJECT_DIR$/../../ruby/0093.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0168.rb" afterPath="$PROJECT_DIR$/../../ruby/0168.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0528.rb" afterPath="$PROJECT_DIR$/../../ruby/0528.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/0557.rb" afterPath="$PROJECT_DIR$/../../ruby/0557.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/10029_benchmark.rb" afterPath="$PROJECT_DIR$/../../ruby/10029_benchmark.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/10029_merge_sort.rb" afterPath="$PROJECT_DIR$/../../ruby/10029_merge_sort.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/10029_quick_sort.rb" afterPath="$PROJECT_DIR$/../../ruby/10029_quick_sort.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/10029_ruby_sort.rb" afterPath="$PROJECT_DIR$/../../ruby/10029_ruby_sort.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/1137.rb" afterPath="$PROJECT_DIR$/../../ruby/1137.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../ruby/1173.rb" afterPath="$PROJECT_DIR$/../../ruby/1173.rb" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1101#1131#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>V</find>
+      <find>&lt;Integer&gt;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Integer</replace>
+      <replace>&lt;V&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1915" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ALDS1_4_A_hash_based_search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ALDS1_4_A_hash_based_search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ALDS1_4_A_hash_based_search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ALDS1_4_A_hash_based_search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; 1.8 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rt.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ALDS1_4_A_hash_based_search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ALDS1_4_A_hash_based_search" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ALDS1_4_A_hash_based_search" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JRubyCucumberRunConfigurationType" factoryName="JRuby Cucumber">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-Dforce.jruby.jit=true -Djruby.debug.fullTrace=true" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ALDS1_4_A_hash_based_search" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a37fb0ca-6d35-4df2-8065-fec02f46535f" name="Default" comment="" />
+      <created>1490224582543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490224582543</updated>
+      <workItem from="1490224583733" duration="550000" />
+      <workItem from="1490417610008" duration="3338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3888000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1915" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18276763" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="945" column="15" lean-forward="false" selection-start-line="945" selection-start-column="15" selection-end-line="945" selection-end-column="15" />
+          <folding>
+            <marker date="1481605182000" expanded="false" signature="0:215" ph="/.../" />
+            <marker date="1481605182000" expanded="true" signature="274:1129" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="1209:1313" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="1381:1486" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="1554:1681" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="1686:1716" ph="/unchecked/" />
+            <marker date="1481605182000" expanded="true" signature="1818:1893" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="2203:4189" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="4242:4887" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="4893:6040" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="6100:6111" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="6166:6172" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="6178:7922" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="7966:7977" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="8008:8014" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="8020:9435" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="9481:9492" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="9523:9529" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="9535:10854" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="10901:10912" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="10943:10949" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="10955:11016" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="11081:11477" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="11483:11924" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="12012:12283" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="13557:14393" ph="//..." />
+            <marker date="1481605182000" expanded="true" signature="14399:14833" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="14875:15124" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="15130:15674" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="15723:15734" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="15774:15780" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="15786:16121" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="16177:17024" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="16643:16722" ph="//..." />
+            <marker date="1481605182000" expanded="true" signature="17247:17346" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="17352:19805" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="19907:22103" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="22109:22981" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="23052:23090" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="23096:24953" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="25059:26316" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="26322:27115" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="27194:27241" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="27247:28396" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="28481:28539" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="28545:29434" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="29508:29564" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="29570:30045" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="30085:31256" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="30209:31215" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="31262:31941" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="31983:32146" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="32152:32226" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="32261:32501" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="32531:32542" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="32561:32567" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="32573:33174" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="33233:33278" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="33284:33459" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="33487:33498" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="33517:33523" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="33529:33705" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="33735:33746" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="33766:33772" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="33778:33864" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="33890:33901" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="33914:33920" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="33926:34139" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="34167:34178" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="34197:34203" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="34209:34383" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="34413:34424" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="34444:34450" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="34456:34631" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="34663:34674" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="34695:34701" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="34707:35131" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="35160:35171" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="35194:35200" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="35206:35445" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="35485:35496" ph=" { " />
+            <marker date="1481605182000" expanded="true" signature="35527:35533" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="35539:35781" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="35823:35834" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="35847:35853" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="35859:36266" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="36305:36437" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="36443:37767" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="37815:37826" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="37854:37860" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="37866:39704" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="39762:39881" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="39887:41834" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="41896:42239" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="42245:44072" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="44146:45730" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="45337:45505" ph="//..." />
+            <marker date="1481605182000" expanded="true" signature="45736:46344" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="46393:46404" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="46453:46459" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="46465:46991" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="47035:47046" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="47087:47093" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="47099:47562" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="47614:47625" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="47670:47676" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="47682:48398" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="48443:48454" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="48486:48492" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="48498:49263" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="49328:49478" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="49484:49915" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="49983:50133" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="50162:50303" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="50356:50497" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="50557:51187" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="51231:51414" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="51420:52048" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="52091:52148" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="52154:53141" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="53192:53528" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="53534:54213" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="54265:54619" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="54625:55053" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="55092:55346" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="55352:56410" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="56464:56475" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="56518:56524" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="56530:57594" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="57649:57660" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="57703:57709" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="57715:58069" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="58107:58431" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="58437:58824" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="58861:58935" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="58941:59290" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="59333:59491" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="59497:59755" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="59795:59806" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="59819:59825" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="59831:60150" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="60190:60201" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="60223:60229" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="60235:60554" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="60594:60605" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="60627:60633" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="60639:60702" ph="/**...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="82" column="13" lean-forward="false" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+          <folding>
+            <marker date="1481605182000" expanded="false" signature="0:215" ph="/.../" />
+            <marker date="1481605182000" expanded="true" signature="274:2881" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="3049:3204" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="3239:3391" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="3425:3469" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="3494:3501" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="3507:3829" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="3879:3921" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="3927:3971" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="4004:4255" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="4261:4304" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="4328:4578" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="4584:4647" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="4687:4991" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="4997:5046" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="5084:5438" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="5444:5492" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="5529:5882" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="5888:5931" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="5956:6461" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="6467:6638" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="6663:6797" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="6803:6972" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="6996:7129" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="7135:7322" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="7350:7492" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="7498:7683" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="7710:7850" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="7856:7977" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="8007:8018" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="8031:8037" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="8043:8218" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="8247:8258" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="8270:8276" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="8282:8709" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="8747:8758" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="8782:8788" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="8794:8915" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="8937:8948" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="8960:8966" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="8972:9237" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="9266:9315" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="9321:9994" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="10031:10504" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="10510:11155" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="11208:11219" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="11242:11248" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="11254:12049" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="12114:12975" ph="{...}" />
+            <marker date="1481605182000" expanded="false" signature="12507:12537" ph="/unchecked/" />
+            <marker date="1481605182000" expanded="true" signature="12981:13098" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="13123:13646" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="13133:13378" ph="//..." />
+            <marker date="1481605182000" expanded="true" signature="13690:13947" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="13976:14050" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="14056:14416" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="14456:14606" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="14612:15021" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="15064:15224" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="15230:15639" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="15671:15748" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="15754:15831" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="15877:15888" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="15922:15928" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="15934:16051" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="16098:16109" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="16144:16150" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="16156:16370" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="16415:16426" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="16465:16471" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="16519:16634" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="16683:16799" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="16805:16883" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="16912:17279" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="17311:17850" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="17884:18327" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="18333:18871" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="18909:19353" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="19385:19575" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="19596:19680" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="19686:19897" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="19920:19931" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="19949:19955" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="19961:20141" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="20162:20254" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="20260:20461" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="20483:20494" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="20515:20521" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="20527:20739" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="20769:20780" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="20794:20800" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="20830:21039" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="21075:21124" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="21130:21336" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="21371:21419" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="21425:21686" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="21712:21797" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="21803:22062" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="22087:22170" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="22176:22423" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="22449:22541" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="22547:22792" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="22817:22907" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="22913:23187" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="23213:23224" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="23236:23242" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="23248:23679" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="23698:23709" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="23730:23736" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="23742:24109" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="24160:24171" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="24188:24194" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="24200:24566" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="24617:25088" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="25094:26214" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="26266:26343" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="26398:29102" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="26576:26721" ph="{...}" />
+            <marker date="1481605182000" expanded="false" signature="26755:26770" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="26794:26804" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="26830:27086" ph="{...}" />
+            <marker date="1481605182000" expanded="false" signature="27124:27139" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="27160:27170" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="27200:27466" ph="{...}" />
+            <marker date="1481605182000" expanded="false" signature="27498:27513" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="27530:27540" ph=" }" />
+            <marker date="1481605182000" expanded="false" signature="27576:27591" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="27612:27622" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="27653:28058" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="28089:28262" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="28293:28545" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="28612:28932" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="28978:29096" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="29137:29362" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="29252:29356" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="29368:29397" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="29441:29452" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="29484:29490" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="29496:29575" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="29636:29921" ph="{...}" />
+            <marker date="1481605182000" expanded="false" signature="29727:29742" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="29767:29777" ph=" }" />
+            <marker date="1481605182000" expanded="false" signature="29801:29816" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="29838:29848" ph=" }" />
+            <marker date="1481605182000" expanded="false" signature="29877:29892" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="29905:29915" ph=" }" />
+            <marker date="1481605182000" expanded="false" signature="29927:29957" ph="/unchecked/" />
+            <marker date="1481605182000" expanded="true" signature="29997:30167" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="30173:30364" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="30391:30733" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="30739:31316" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="31347:31529" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="31535:33529" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="33534:33564" ph="/unchecked/" />
+            <marker date="1481605182000" expanded="true" signature="33599:33979" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="34056:34381" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="34476:34766" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="34772:34886" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="34891:34921" ph="/unchecked/" />
+            <marker date="1481605182000" expanded="true" signature="35038:35317" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="35323:35987" ph="/**...*/" />
+            <marker date="1481605182000" expanded="false" signature="36041:36052" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="36093:36099" ph=" }" />
+            <marker date="1481605182000" expanded="true" signature="36105:36168" ph="/**...*/" />
+            <marker date="1481605182000" expanded="true" signature="36235:39343" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="36776:36899" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="36928:37338" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="37375:37402" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="37445:38080" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="38147:38673" ph="{...}" />
+            <marker date="1481605182000" expanded="true" signature="38737:39204" ph="{...}" />
+            <marker date="1481605182000" expanded="false" signature="39242:39257" ph=" { " />
+            <marker date="1481605182000" expanded="false" signature="39327:39337" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1101#1131#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ALDS1_4_A_hash_based_search</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,6 +1,6 @@
 arr = []
-while s = gets
-  n = s.to_i
+while str = gets
+  n = str.to_i
   if n == 0
     puts arr.pop
   else

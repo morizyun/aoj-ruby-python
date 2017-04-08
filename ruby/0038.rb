@@ -1,31 +1,22 @@
-while gets do
-  arr = $_.split(',').map(&:to_i)
-  cards = [0]*13
-  arr.each do |i|
-    cards[i - 1] += 1
-  end
+while str = gets
+  arr = str.split(',').map(&:to_i)
+  cards = Array.new(13, 0)
+  arr.each { |a| cards[a - 1] += 1 }
 
-  sc = cards.select{ |i| i >= 1 }.sort
-  str = cards.join('')
-
-  case sc
-    when [1, 4]
-      puts 'four card'
-    when [2, 3]
-      puts 'full house'
-    when [1, 1, 3]
-      puts 'three card'
-    when [1, 2, 2]
-      puts 'two pair'
-    when [1, 1, 1, 2]
-      puts 'one pair'
-    when [1, 1, 1, 1, 1]
-      if str =~ /1{5}|10{8}1{4}/
-        puts 'straight'
-      else
-        puts 'null'
-      end
-    else
-      puts 'null'
-  end
+  result = if cards.max == 4
+             'four card'
+           elsif cards.max == 3 && cards.select { |i| i == 2 }.count == 1
+             'full house'
+           elsif cards.join('') =~ /(1{5}|10{8}1{4})/
+             'straight'
+           elsif cards.max == 3
+             'three card'
+           elsif cards.select { |i| i == 2 }.count == 2
+             'two pair'
+           elsif cards.select { |i| i == 2 }.count == 1
+             'one pair'
+           else
+             'null'
+           end
+  puts result
 end

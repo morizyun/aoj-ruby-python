@@ -1,18 +1,16 @@
-# 最大公約数
-def gcd(a, b)
-  a, b = b, a if a > b
-  until a == 0
-    a, b = b%a, a
+def kouyakusu(a, b)
+  loop do
+    rem = b % a
+    return a if rem == 0
+    a, b = rem, a
   end
-  return b
 end
 
-# 最小公倍数
-def lcm(a, b)
-  a*b/gcd(a, b)
+def kobaisu(a, b)
+  (a * b) / kouyakusu(a, b)
 end
 
-while gets do
-  a, b = $_.chomp.split(' ').map(&:to_i)
-  puts "#{gcd(a, b)} #{lcm(a, b)}"
+while str = gets
+  a, b = str.split(' ').map(&:to_i).sort
+  puts "#{kouyakusu(a, b)} #{kobaisu(a, b)}"
 end

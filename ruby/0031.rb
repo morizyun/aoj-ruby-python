@@ -1,6 +1,11 @@
-while gets
-  n = $_.to_i
-  n2 = n.to_s(2)
-  arr = n2.reverse.split('').map.with_index { |s, i| s.to_i == 1 ? 2**i : 0 }
-  puts arr.select{ |i| i > 0 }.join(' ')
+while n = gets.to_i
+  break if n == 0
+
+  result = []
+  str = n.to_s(2).reverse
+  str.chars.each_with_index do |s, idx|
+    result << 2**idx if s == '1'
+  end
+
+  puts result.map(&:to_s).join(' ')
 end

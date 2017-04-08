@@ -1,15 +1,15 @@
-num = gets.to_i
-num.times do
+n = gets.to_i
+
+n.times do
+  arr = gets.split(' ').map(&:to_i)
+
   left, right = [], []
-  arr = gets.chomp.split(' ').map(&:to_i)
-  arr.each do |a|
-    if (left.last || 0) < a
-      left << a
-    elsif (right.last || 0) < a
-      right << a
-    else
-      break
+  arr.each do |i|
+    if (left.last || 0) < i
+      left << i
+    elsif (right.last || 0) < i
+      right << i
     end
   end
-  puts (arr.size == (left.size + right.size)) ? 'YES' : 'NO'
+  puts (left.size + right.size) == arr.size ? 'YES' : 'NO'
 end

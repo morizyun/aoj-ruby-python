@@ -1,4 +1,8 @@
-while gets do
-  d = $_.to_f
-  puts d.step(600 - d, d).map { |i| d*i*i }.inject(:+).to_i
+while n = gets.to_f
+  break if n <= 0
+  sum = 0
+  n.step(600 - n, n) do |j|
+    sum += j * j * n
+  end
+  puts sum.to_i
 end

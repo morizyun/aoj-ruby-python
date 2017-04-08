@@ -1,50 +1,46 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.lang.Exception;
-import java.lang.Integer;
-import java.lang.Math;
-import java.lang.System;
+import java.util.Arrays;
 
 public class Main {
-    public static void main(String[] a) throws Exception {
-        int maxNum = 1000000;
-        boolean primeList[] = new boolean[maxNum];
-        primeList = getPrimeList(maxNum);
+    private static final int maxNumber = 1_000_000;
+
+    public static void main(String[] args) throws Exception {
+        int[] primeNumberCount = calcPrimeNumberCount();
 
         BufferedReader r = new BufferedReader(new InputStreamReader(System.in));
-        String s;
-        long n, count;
-        while ((s = r.readLine()) != null) {
-            count = 0;
-            n = Integer.parseInt(s);
-            for(int i = 1; i <= n; i++) {
-                if (primeList[i]) {
-                    count++;
-                }
-            }
-            System.out.println(count);
+
+        int num;
+        String str;
+        while((str = r.readLine()) != null) {
+            num = Integer.parseInt(str);
+            System.out.println(primeNumberCount[num]);
         }
     }
 
-    public static boolean[] getPrimeList(int maxNum) {
-        double dn = Math.sqrt((double)maxNum);
-        long sqrtNum = (int)dn + 1;
-        boolean primeList[] = new boolean[maxNum];
+    private static int[] calcPrimeNumberCount() {
+        boolean[] isPrime = new boolean[maxNumber];
+        Arrays.fill(isPrime, true);
+        isPrime[0] = false;
+        isPrime[1] = false;
 
-        for(int i = 0; i < maxNum; i++) {
-            if (i <= 1) {
-                primeList[i] = false;
-            } else {
-                primeList[i] = true;
+        int sqrtMaxNum = (int) Math.floor(Math.sqrt(maxNumber));
+        for (int i = 2; i < sqrtMaxNum; i++) {
+            for (int j = i*i; j < maxNumber; j += i) {
+                if (!isPrime[j]) { continue; }
+                isPrime[j] = false;
             }
         }
 
-        for (int i = 2; i < sqrtNum; i++) {
-            for (int j = i*i; j < maxNum; j += i) {
-                primeList[j] = false;
+        int count = 0;
+        int[] primeCount = new int[maxNumber];
+        for (int i = 0; i < maxNumber; i++) {
+            if (isPrime[i]) {
+                count ++;
             }
+            primeCount[i] = count;
         }
 
-        return primeList;
+        return primeCount;
     }
 }

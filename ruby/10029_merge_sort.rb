@@ -8,7 +8,7 @@ class Array
   def merge_sort
     tmp = self.dup
     return tmp if tmp.length <= 1
-    a, b = self.half.map { |e| e.merge_sort }
+    a, b = self.half.map(&:merge_sort)
     merge(a, b)
   end
 
@@ -32,5 +32,5 @@ class Array
   end
 end
 
-n = gets.to_i
+_n = gets.to_i
 puts gets.chomp.split(' ').map(&:to_i).merge_sort.join(' ')

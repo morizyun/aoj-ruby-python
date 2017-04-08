@@ -1,15 +1,18 @@
-x = Array.new(51, 0)
-i = j = k = l = 10
-i.times{ |i|
-  j.times{ |j|
-    k.times{ |k|
-      l.times{ |l|
-        x[i+j+k+l] += 1
-      }
-    }
-  }
-}
+while n = gets.to_i
+  break if n == 0
 
-while n = gets
-  puts x[n.to_i]
+  count = 0
+  0.upto(9) do |a|
+    0.upto(9) do |b|
+      0.upto(9) do |c|
+        0.upto(9) do |d|
+          if a + b + c + d == n
+            count += 1
+          end
+        end
+      end
+    end
+  end
+
+  puts count
 end

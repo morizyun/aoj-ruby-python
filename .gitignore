@@ -131,3 +131,8 @@ docs/_build/
 
 # For Java
 *.class
+
+ruby/private
+input/private
+
+.idea

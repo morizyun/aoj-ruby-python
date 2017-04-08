@@ -1,18 +1,28 @@
-a_can = (1..26).select{|i| 26.gcd(i) == 1}
-cl = ('a'..'z').to_a
+ALPHA = {}
+('a'..'z').to_a.each_with_index { |c, idx| ALPHA[c] = idx }
 
-gets.to_i.times do
-  s = gets.chomp
-  hints = s.split(' ').select{|st| st.length==4}
+def convert(char, a, b)
+  i = (a * ALPHA[char] + b) % 26
+  ALPHA[i]
+end
 
-  @alph = a_can.find do |a|
-    @beta = (0..26).find do |b|
-      %w(this that).any?{|h|
-        hints.include?(h.chars.map{|i| cl[(a*cl.index(i)+b)%26]}.join)
-      }
+def get_params(str)
+  0..25.each do |i|
+    0..25.each do |j|
+      return i, j if str.chars.map { |s| convert(s, i, j) }.join('') =~ /this|that/
     end
   end
+  return -1, -1
+end
 
-  map = (0..25).map{|i| (@alph*i+@beta)%26}
-  puts s.chars.map{|i| cl.include?(i) ? cl[map.index(cl.index(i))] : i }.join
+n = gets.to_i
+n.times do
+  arr = gets.chomp.split(' ')
+  arr.select { |s| s.size == 4 }.each do |word|
+    a, b = get_params(word)
+    if a != -1 && b != -1
+      puts
+      break
+    end
+  end
 end

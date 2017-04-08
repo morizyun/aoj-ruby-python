@@ -1,13 +1,14 @@
-loop do
-  n = gets.to_i
-  break if n==0
-  max = max_n = -100000
-  r = 0
+while n = gets.to_i
+  break if n == 0
+
+  max_sum = -100_000
+  sum = 0
   n.times do
     m = gets.to_i
-    max_n = [max_n, m].max
-    r = [r+m, 0].max
-    max = [max, r].max
+    sum += m
+    max_sum = sum if sum > max_sum
+    sum = 0 if sum < 0
   end
-  puts max_n > 0 ? max : max_n
+
+  puts max_sum
 end

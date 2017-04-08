@@ -14,5 +14,5 @@ class Array
   end
 end
 
-n = gets.to_i
+_n = gets.to_i
 puts gets.chomp.split(' ').map(&:to_i).quick_sort.join(' ')

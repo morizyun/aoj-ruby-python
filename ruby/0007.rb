@@ -1,8 +1,10 @@
 n = gets.to_i
-rent = 100000
 
-n.times.each do
-  rent = ((rent*1.05)/1000).ceil*1000
+price = 100_000
+
+n.times do
+  price *= 1.05
+  price = (price/1000.0).ceil * 1000
 end
 
-puts rent
+puts price
