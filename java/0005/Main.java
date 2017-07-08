@@ -1,48 +1,39 @@
 import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStreamReader;
-import java.lang.Exception;
-import java.lang.String;
-import java.lang.System;
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
 
 public class Main {
-    public static void main(String[] a) throws Exception {
-        BufferedReader r = new BufferedReader(new InputStreamReader(System.in));
-        long num[] = new long[2];
-        long gcd, lcm;
-        String numStr[] = new String[2];
-        String str;
+  public static void main(String[] args) throws IOException {
+    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        while((str = r.readLine()) != null) {
-            numStr = str.split(" ");
-            for(int i = 0; i < numStr.length; i++) {
-                num[i] = Long.parseLong(numStr[i]);
-            }
-            gcd = getGCD(num[0], num[1]);
-            lcm = getLCM(num[0], num[1]);
-            System.out.printf("%d %d\n", gcd, lcm);
-        }
+    while(true) {
+      String tmp = br.readLine();
+      if (tmp == null || tmp.isEmpty()) {
+        break;
+      }
+      List<Long> list = Arrays.asList(tmp.split(" ")).stream().map(i -> Long.parseLong(i)).sorted().collect(Collectors.toList());
+      long koyakusu = getKoyakusu(list.get(0), list.get(1));
+      long kobaisu = getKobaisu(list.get(0), list.get(1));
+      System.out.printf("%d %d\n", koyakusu, kobaisu);
     }
+  }
 
-    // a, bの最大公約数を求める
-    private static long getGCD(long a, long b) {
-        if(a > b) {
-            long tmp;
-            tmp = a;
-            a = b;
-            b = tmp;
-        }
-
-        while(a != 0) {
-            long tmp = a;
-            a = b%a;
-            b = tmp;
-        }
-
-        return b;
+  // 公約数の取得
+  private static long getKoyakusu(long a, long b) {
+    long candidate = a;
+    while (b % a != 0) {
+      candidate = b % a;
+      b = a;
+      a = candidate;
     }
+    return candidate;
+  }
 
-    // a, bの最小公倍数を求める
-    private static long getLCM(long a, long b) {
-        return (a * b)/getGCD(a, b);
-    }
+  // 公倍数の取得
+  private static long getKobaisu(long a, long b) {
+    return (a * b) / getKoyakusu(a, b);
+  }
 }
