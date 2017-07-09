@@ -1,59 +1,55 @@
 import java.util.Scanner;
 
 public class Main {
-    public static final int DONE_FLAG = '.';
-    public static final int[] dx = { 0, 1, 0, -1 };
-    public static final int[] dy = { -1, 0, 1, 0 };
+  static final char SEARCH_DONE = '.';
+  static final int[] dx = { -1, 0, 1, 0 };
+  static final int[] dy = { 0, 1, 0, -1 };
+  static int h;
+  static int w;
+  static char[][] map;
 
-    public static int h, w;
-    public static char[][] map;
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
 
-    public static void depthFirstSearch(int x, int y, char target) {
-        if (map[y][x] != target) {
-            return;
+    while (true) {
+      h = sc.nextInt();
+      w = sc.nextInt();
+      if (h == 0 && w == 0) {
+        break;
+      }
+
+      map = new char[h][];
+      for (int i = 0; i < h; i++) {
+        map[i] = sc.next().toCharArray();
+      }
+
+      int count = 0;
+      for (int i = 0; i < h; i++) {
+        for (int j = 0; j < w; j++) {
+          char current = map[i][j];
+          if (current != SEARCH_DONE) {
+            depthFirstSearch(i, j, current);
+            count++;
+          }
         }
-
-        map[y][x] = DONE_FLAG;
-        for (int i = 0; i < 4; i++) {
-            int nx = x + dx[i];
-            int ny = y + dy[i];
-
-            if (nx < 0 || w <= nx || ny < 0 || h <= ny) {
-                continue;
-            }
-
-            depthFirstSearch(nx, ny, target);
-        }
+      }
+      System.out.println(count);
     }
+  }
 
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+  private static void depthFirstSearch(int y, int x, char target) {
+    for (int i = 0; i < 4; i++) {
+      int nx = x + dx[i];
+      int ny = y + dy[i];
 
-        while (true) {
-            h = sc.nextInt();
-            w = sc.nextInt();
-            if (h == 0 && w == 0) {
-                break;
-            }
-            map = new char[h][];
-            for (int i = 0; i < h; i++) {
-                map[i] = sc.next().toCharArray();
-            }
+      if (nx < 0 || nx >= w || ny < 0 || ny >= h) {
+        continue;
+      }
 
-            int count = 0;
-            for (int i = 0; i < h; i++) {
-                for (int j = 0; j < w; j++) {
-                    char current = map[i][j];
-                    if (current != DONE_FLAG) {
-                        depthFirstSearch(j, i, current);
-                        count++;
-                    }
-                }
-            }
-
-            System.out.println(count);
-        }
-
+      if (map[ny][nx] == target) {
+        map[ny][nx] = SEARCH_DONE;
+        depthFirstSearch(ny, nx, target);
+      }
     }
-
+  }
 }
